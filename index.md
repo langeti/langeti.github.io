@@ -73,19 +73,19 @@ Mario has been an assistant professor at Universidad de los Andes since 2016. Ma
 ### _Nicolás Cardozo - Universidad de los Andes, Colombia – n.cardozo@uniandes.edu.co_  
 Nicolás has been an assistant professor at Universidad de los Andes since 2016; he has worked in the programming language and adaptive systems community since 2009 participating in the program committees for different conferences and workshops. Nicolás has been the organizer of the LASSY workshop, co-located with the two previous iterations of the &lt;Programming&gt; conference, and the last two iterations of the predecessor conference MODULARITY. In 2018 Nicolás was also part of the organization of the Iberoamerican conference on Software Engineering, and the Workshop on Logic, Languages, Information and Computation, both held at Universidad de los Andes.
 
-### Ivana Dusparic - Trinity College Dublin, Ireland - ivana.dusparic@scss.tcd.ie
+### _Ivana Dusparic - Trinity College Dublin, Ireland - ivana.dusparic@scss.tcd.ie_
 Ivana has been an Ussher Assistant Professor in the School of Computer Science and Statistics at Trinity College Dublin since 2016. Her research focuses on development and use of Artificial Intelligence (AI) techniques to achieve autonomous optimization of large-scale heterogeneous infrastructures, with particular focus on smart cities applications, sustainable urban mobility, and communication networks. One of her particular interests is testing of AI-based systems. She has been a part of organizing committee of SEAMS, Symposium on Software Engineering for Adaptive and Self-Managing Systems collocated with ICSE 2019, and a co-organizer of ATT2018 and ATT2020, Workshop on Agents in Traffic and Transportation, collocated with AAMAS (in 2018) and ECAI (in 2020).
 
 
-### Kevin Moran, George Mason University,  United States - <EMAIL HERE>
+### _Kevin Moran, George Mason University,  United States - kpmoran01@email.wm.edu_
 Kevin Moran is currently a Research Assistant Professor in the Computer Science Department at William & Mary. He will be joining George Mason University as an Assistant Professor in Fall 2020. He graduated with a B.A. in Physics from the College of the Holy Cross in 2013 and an M.S. degree from William & Mary in August of 2015.  He received his Ph.D. degree from William & Mary in August 2018. His main research interests involve facilitating the processes of software engineering, maintenance, and evolution with a focus on mobile platforms. He has published in several top peer-reviewed venues including: ICSE, ESEC/FSE, TSE, USENIX Security, ICST, ICSME, and MSR. He was recognized as the second-overall graduate winner in the ACM Student Research competition at ESEC/FSE 2015, received the best paper award at CODASPY 2019, and an ACM SIGSOFT distinguished paper award at ESEC/FSE'19. Moran has served on the organizing committees of MobileSOFT 2019 and ICSME 2019. More information is available at http://www.kpmoran.com.
 
-### Camilo Escobar-Velásquez - Universidad de los Andes, Colombia - ca.escobar2434@uniandes.edu.co
+### _Camilo Escobar-Velásquez - Universidad de los Andes, Colombia - ca.escobar2434@uniandes.edu.co_
 Camilo is a Ph.D. student at Universidad de los Andes in Colombia. He received his M.S. in Software Engineering from Universidad de los Andes in 2019. He received his B.S. in Systems and Computing Engineering - Minor: Mathematics from Universidad de los Andes in 2017. He is part of The Software Design Lab, where he has been part of research projects  on evolution, maintenance and analysis of closed-source android apps, automation of software engineering tasks and software testing. He received a Google Latin American Research Award in 2018-2020. He served as a student volunteer for ICSME'2018, ICSE'2019 and ASE'2019.
 
 ## Program Committee
 
-> To be defined
+> _To be defined_
 <!-- | | |
 |---|---|
 | **Denys Poshyvanyk** | College of William and Mary |
