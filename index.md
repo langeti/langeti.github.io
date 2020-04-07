@@ -48,7 +48,7 @@ Accepted papers will be published as pre-proceedings, part of ACM’s Digital Li
 ## Important Dates
 ---
 
-|  | Deadline |
+|  |  |
 |---|---|
 | **Paper submission:** | _August 2, 2020_  |
 | **Paper notification:** | _August 31, 2020_  |
@@ -75,17 +75,20 @@ Mario has been an assistant professor at Universidad de los Andes since 2016. Ma
 Nicolás has been an assistant professor at Universidad de los Andes since 2016; he has worked in the programming language and adaptive systems community since 2009 participating in the program committees for different conferences and workshops. Nicolás has been the organizer of the LASSY workshop, co-located with the two previous iterations of the <Programming> conference, and the last two iterations of the predecessor conference MODULARITY. In 2018 Nicolás was also part of the organization of the Iberoamerican conference on Software Engineering, and the Workshop on Logic, Languages, Information and Computation, both held at Universidad de los Andes.
 
 ## Program Committee
----
-Denys Poshyvanyk – College of William and Mary  
-Kevin Moran - College of William and Mary  
-Coen De Roover - Vrije Universiteit Brussel  
-Nuno Antunes - University of Coimbra  
-Gabriele Bavota – Università de la Svizzera Italiana  
-Juan Pablo Galeotti - UBA  
-Massimiliano Di Penta – University of Sannio  
-Saba Alimadadi - North Eastern University  
-Sam Malek - University of California at Irvine  
-Mattia Fazzini - Georgia Tech  
+
+
+| | |
+|---|---|
+| **Denys Poshyvanyk** | College of William and Mary |
+| **Kevin Moran** | College of William and Mary  |
+| **Coen De Roover** | Vrije Universiteit Brussel | 
+| **Nuno Antunes** | University of Coimbra  |
+| **Gabriele Bavota** | Università de la Svizzera Italiana  |
+| **Juan Pablo Galeotti** | UBA  |
+| **Massimiliano Di Penta** | University of Sannio  |
+| **Saba Alimadadi** | North Eastern University  |
+| **Sam Malek** | University of California at Irvine |  
+| **Mattia Fazzini** | Georgia Tech | 
 
 
 
