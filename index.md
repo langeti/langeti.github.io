@@ -45,23 +45,23 @@ Papers must be written in English, provided as PDF documents, and follow the ACM
 ---
 Accepted papers will be published as pre-proceedings, part of ACM’s Digital Library. Submissions will undergo standard peer reviewing by at least three members of the program committee. Shepherding will be a possibility after notification.  All accepted papers will be allocated a presentation slot. All paper submissions are expected to present their topic together with a hands-on mini tutorial about the use/implementation of the tool/algorithm presented in their paper.
  
-## Important dates
+## Important Dates
 ---
 
 |  | Deadline |
 |---|---|
-| Paper submission: | August 2, 2020  |
-| Paper notification: | August 31, 2020  |
-| Camera-ready submission: | September 18, 2020  |
-| Workshop date: | April 1-2, 2018 |
+| **Paper submission:** | _August 2, 2020_  |
+| **Paper notification:** | _August 31, 2020_  |
+| **Camera-ready submission:** | _September 18, 2020_  |
+| **Workshop date:** | _November, 2020_ |
 
-## Follow-up plans
+## Follow-up Plans
 ---
 This will be the first edition of the LANGETI workshop, which we hope to establish itself as one of the flagship workshops for the ESEC/FSE conference. With LANGETI we will build a community for software testing researchers and practitioners. We will create a software testing portal associated with LANGETI. The idea of the portal is to use it as a hub gathering information about authors and tools that participate in the workshop. Overtime, profiles for other researchers, and new testing tools can be added to the portal.
 
 In addition to the testing portal, we will record the pecha kucha talks, to be added to the webpage. These talks will serve as a roadmap or archive of new ideas in software testing. Finally, we will add an editorial note of the workshop summarizing the main discussions (together with a detailed discussions memoir) of the workshop.
 
-## Publicity plans
+## Publicity Plans
 ---
 The publicity strategy for the workshop will be based on an online strategy sharing the information, calls and important dates of the workshop through different local and international mailing lists. Moreover, we will focus on having a presence in social network outlets, and landing pages for the workshop’s web page linked from our institution’s website. As this will be the first edition of the workshop we expect to have 7 to 15 submissions, with an expected workshop attendance of 25+ people open to all conference participants.
 
@@ -74,7 +74,7 @@ Mario has been an assistant professor at Universidad de los Andes since 2016. Ma
 ### _Nicolás Cardozo - Universidad de los Andes, Colombia – n.cardozo@uniandes.edu.co_  
 Nicolás has been an assistant professor at Universidad de los Andes since 2016; he has worked in the programming language and adaptive systems community since 2009 participating in the program committees for different conferences and workshops. Nicolás has been the organizer of the LASSY workshop, co-located with the two previous iterations of the <Programming> conference, and the last two iterations of the predecessor conference MODULARITY. In 2018 Nicolás was also part of the organization of the Iberoamerican conference on Software Engineering, and the Workshop on Logic, Languages, Information and Computation, both held at Universidad de los Andes.
 
-## Program committee
+## Program Committee
 ---
 Denys Poshyvanyk – College of William and Mary  
 Kevin Moran - College of William and Mary  
