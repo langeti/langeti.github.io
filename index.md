@@ -9,7 +9,7 @@ With LANGETI we want to disrupt the current state of workshops as passive presen
 ---
 The workshop looks to bring together practitioners and researchers at different stages of their career. The workshop contents should be of interest for people working on software testing in general. Moreover, with the hands-on format planned for the workshop we expect to capture the interest of newcomers to the field.
 
-# Relevance
+## Relevance
 ---
 Testing is a crucial part of the software development process, as it can  reduce the number of bugs before deployment, and in general improve the quality of a system. From a theoretical standpoint, automated testing covers many topics of interest across the ESEC/FSE community, such as: automation, abstract interpretation, faults injection, software verification, and software development processes. Additionally, the tools required for a successful testing process need to be developed carefully, often requiring a great deal of engineering work to get them to a stable state to be used by industry.
 
@@ -49,10 +49,10 @@ Accepted papers will be published as pre-proceedings, part of ACM’s Digital Li
 ---
 |  | Deadline |
 |---|---|
-|Paper submission:| August 2, 2020  |
-|Paper notification:| August 31, 2020  |
-|Camera-ready submission:| September 18, 2020  |
-|Workshop date:| April 1-2, 2018|
+| Paper submission: | August 2, 2020  |
+| Paper notification: | August 31, 2020  |
+| Camera-ready submission: | September 18, 2020  |
+| Workshop date: | April 1-2, 2018 |
 
 ## Follow-up plans
 ---
