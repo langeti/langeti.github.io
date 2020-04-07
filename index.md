@@ -47,6 +47,7 @@ Accepted papers will be published as pre-proceedings, part of ACM’s Digital Li
  
 ## Important dates
 ---
+
 |  | Deadline |
 |---|---|
 | Paper submission: | August 2, 2020  |
