@@ -26,7 +26,7 @@ An explicit goal of the workshop is to open a platform for new testing technique
 The topics of interest of the workshop include, but are not limited to: 
 
 
-- Domain specific automated testing: mobile, web, micro-services, IoT, context-driven,  etc.
+- Domain specific automated testing: mobile, web, micro-services, IoT, context-driven, autonomous systems, etc.
 - Chaos engineering
 - Metamorphic testing
 - Automated testing of quality attributes (performance, security, usability, etc.)
