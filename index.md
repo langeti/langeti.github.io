@@ -41,11 +41,10 @@ The topics of interest of the workshop include, but are not limited to:
 - Empirical studies
 - Experience/Industry reports
 
-All submissions must be in PDF and must be submitted online by the deadline via the [LANGETI 2020 EasyChair conference management system] (https://easychair.org/conferences/?conf=langeti20). Papers must conform to the [ESEC/FSE 2020 Format and Submission Guidelines](https://2020.esec-fse.org/attending/esec%5Esfse-2020-submission-policies).
 
-## Review and Publication
----
-Papers must be written in English, provided as PDF documents, and follow the ACM Conference Format (10 point font, Times New Roman font family, numeric citation style). Submission will be managed through the EasyChair Submission system. Accepted papers will be published as part of ACM’s Digital Library. Submissions will undergo standard peer reviewing by at least three members of the program committee. Shepherding will be a possibility after notification.  All accepted papers will be allocated a presentation slot. All paper submissions are expected to present their topic together with a hands-on mini tutorial about the use/implementation of the tool/algorithm presented in their paper.
+**Papers must be written in English, provided as PDF documents, and follow the [ESEC/FSE 2020 Format and Submission Guidelines](https://2020.esec-fse.org/attending/esec%5Esfse-2020-submission-policies), i.e., ACM Conference Format (10 point font, Times New Roman font family, numeric citation style). Submission will be managed through the the [LANGETI 2020 EasyChair conference management system](https://easychair.org/conferences/?conf=langeti20).**
+
+Accepted papers will be published as part of ACM’s Digital Library. Submissions will undergo standard peer reviewing by at least three members of the program committee. Shepherding will be a possibility after notification.  All accepted papers will be allocated a presentation slot. All paper submissions are expected to present their topic together with a hands-on mini tutorial about the use/implementation of the tool/algorithm presented in their paper.
  
 ## Important Dates
 
