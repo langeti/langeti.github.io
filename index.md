@@ -22,10 +22,13 @@ The workshop is proposed to take place over 2 days.  The first day will commence
 An explicit goal of the workshop is to open a platform for new or visionary testing techniques. We are also interested in tool-oriented submissions, where participants would present and demo their testing solutions. Therefore, contributions to the workshop should ideally include, in addition to a detailed discussion of the proposed approach (for example by defining the models, mechanisms, or testing strategies underlying that approach), a discussion of how the proposed approach on software testing could influence or be influenced by other approaches and perspectives. Although it is not mandatory, we encourage the authors to include preliminary results of using the proposed approaches/tools. 
 We encourage submissions that make contributions related to the topics of testing-oriented programming languages and tools tailored for new technologies, or new application domains.
 
-We will accept contributions in the following two forms:
-Technical Workshop Papers (up to 6 pages including references): Technical workshop papers should explicitly discuss new testing techniques as relevant to the workshop topics listed below. Submissions of work in early stages is encouraged, although we also suggest authors include a preliminary evaluation of their proposed techniques or discussions of the implications of findings from empirical studies.
+We will accept contributions in the following forms:
+1. **Technical Workshop Papers (up to 6 pages including references)**: Technical workshop papers should explicitly discuss new testing techniques as relevant to the workshop topics listed below. Submissions of work in early stages is encouraged, although we also suggest authors include a preliminary evaluation of their proposed techniques or discussions of the implications of findings from empirical studies.
 
-Testing Tool Extended Abstracts (up to 2 pages including references): We encourage both academic researchers and industrial practitioners to submit extended abstracts that describe new or existing testing tools to be showcased during the workshop. Abstracts should clearly state the purpose of the tool, and provide an overview of its functionality.
+2. **Research Abstracts (up to 2 pages including references)**: We encourage both academic researchers and industrial practitioners to submit extended abstracts that describe early or existing ideas about testing approaches to be discussed during the workshop. Abstracts should clearly state the purpose of the approach,  research/implementation challenges, and research agenda.
+
+3. **Testing Tool Extended Abstracts (up to 2 pages including references)**: We encourage both academic researchers and industrial practitioners to submit extended abstracts that describe new or existing testing tools to be showcased during the workshop. Abstracts should clearly state the purpose of the tool, and provide an overview of its functionality.
+
 
 The topics of interest of the workshop include, but are not limited to:
 
@@ -50,8 +53,8 @@ Accepted papers will be published as part of ACM’s Digital Library. Submission
 
 |  |  |
 |---|---|
-| **Paper submission:** | _August 2, 2020_  |
-| **Paper notification:** | _August 31, 2020_  |
+| **Paper submission:** | _August 11, 2020_  |
+| **Paper notification:** | _September 13, 2020_  |
 | **Camera-ready submission:** | _September 18, 2020_  |
 | **Workshop date:** | _November 8-9, 2020_ |
 
@@ -61,9 +64,6 @@ This will be the first edition of the LANGETI workshop, which we  aim to evolve 
 
 In addition to this testing portal, we will record the “pecha kucha” talks, which will be added to the permanent workshop webpage. These talks will serve as a roadmap and  archive of emerging  ideas in software testing. We will add an editorial note of the workshop summarizing the main discussions (together with a detailed discussions memoir) of the workshop.
 
-## Publicity Plans
----
-The publicity strategy for the workshop will be based on an online strategy sharing the information, calls and important dates of the workshop through different local and international mailing lists. Moreover, we will focus on having a presence in social media outlets, and landing pages for the workshop’s web page linked from our institution’s website. As this will be the first edition of the workshop we expect to have 7 to 15 submissions, with an expected workshop attendance of 25+ people open to all conference participants. 
 
 ## Organizers Bio
 ---
@@ -77,7 +77,6 @@ Nicolás has been an Assistant Professor at Universidad de los Andes since 2016;
 ### _Ivana Dusparic - Trinity College Dublin, Ireland - ivana.dusparic@scss.tcd.ie_
 Ivana has been an Ussher Assistant Professor at Trinity College Dublin since 2016. Her research focuses on development and use of Artificial Intelligence (AI) techniques to achieve autonomous optimization of large-scale heterogeneous infrastructures, with particular focus on smart cities applications, sustainable urban mobility, and communication networks. One of her particular interests is testing of AI-based systems. She has been part of the organizing committee of the  Symposium on Software Engineering for Adaptive and Self-Managing Systems collocated with ICSE’19, and a co-organizer of ATT’18 and ATT’20, Workshop on Agents in Traffic and Transportation, collocated with AAMAS’18 and ECAI’20.
 
-
 ### _Kevin Moran, George Mason University,  United States - kpmoran01@email.wm.edu_
 Kevin Moran is a Research Assistant Professor in the Computer Science Department at William & Mary. He will be joining George Mason University as an Assistant Professor in Fall 2020. He graduated with a B.A. in Physics from the College of the Holy Cross in 2013 and an M.S. degree from William & Mary in August of 2015.  He received his Ph.D. degree from William & Mary in August 2018. His main research interests involve facilitating the processes of software engineering, maintenance, and evolution with a focus on mobile platforms. He has published in several top peer-reviewed venues including: ICSE, ESEC/FSE, TSE, USENIX Security, ICST, ICSME, and MSR. He was the second-overall graduate winner in the ACM Student Research competition at ESEC/FSE 2015, received the best paper award at CODASPY 2019, and an ACM SIGSOFT distinguished paper award at ESEC/FSE'19. Moran has served on the organizing committees of MobileSOFT’19 and ICSME’19. More information is available at [http://www.kpmoran.com](http://www.kpmoran.com).
 
@@ -90,11 +89,9 @@ Camilo is a Ph.D. student at Universidad de los Andes in Colombia. He received h
 <!-- | | |
 |---|---|
 | **Denys Poshyvanyk** | College of William and Mary |
-| **Kevin Moran** | College of William and Mary  |
 | **Coen De Roover** | Vrije Universiteit Brussel | 
 | **Nuno Antunes** | University of Coimbra  |
 | **Gabriele Bavota** | Università de la Svizzera Italiana  |
-| **Juan Pablo Galeotti** | UBA  |
 | **Massimiliano Di Penta** | University of Sannio  |
 | **Saba Alimadadi** | North Eastern University  |
 | **Sam Malek** | University of California at Irvine |  
