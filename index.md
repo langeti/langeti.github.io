@@ -86,14 +86,17 @@ Camilo is a Ph.D. student at Universidad de los Andes in Colombia. He received h
 
 ## Program Committee
 
-> _To be defined_
-<!-- | | |
+| | |
 |---|---|
-| **Denys Poshyvanyk** | College of William and Mary |
-| **Coen De Roover** | Vrije Universiteit Brussel | 
-| **Nuno Antunes** | University of Coimbra  |
-| **Gabriele Bavota** | Università de la Svizzera Italiana  |
+| **Nuno Antunes** | University of Coimbra |
 | **Massimiliano Di Penta** | University of Sannio  |
-| **Saba Alimadadi** | North Eastern University  |
 | **Sam Malek** | University of California at Irvine |  
-| **Mattia Fazzini** | Georgia Tech |  -->
+| **Mattia Fazzini** | Georgia Tech | 
+| **Corina Pasareanu** | NASA Ames |
+| **Julian Dolby** | IBM |
+| **Gordana Rakic** | University Novi Sad |
+| **Michele Tufano** | Microsoft |
+| **Carlos Bernal-Cardenas** | Microsoft |
+| **Fabio Palomba** | University of Salerno |
+| **Gerson Sunyé** | University of Nantes |
+| **Carlos Gavidia** | UCL |
