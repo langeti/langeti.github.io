@@ -99,4 +99,5 @@ Camilo is a Ph.D. student at Universidad de los Andes in Colombia. He received h
 | **Carlos Bernal-Cardenas** | Microsoft |
 | **Fabio Palomba** | University of Salerno |
 | **Gerson Sunyé** | University of Nantes |
-| **Carlos Gavidia** | UCL |
+| **Carlos Gavidia** | Uiversity College London |
+| **Alexandre Bergel** | Universidad de Chile |
