@@ -96,7 +96,7 @@ Camilo is a Ph.D. student at Universidad de los Andes in Colombia. He received h
 | **Julian Dolby** | IBM |
 | **Gordana Rakic** | University Novi Sad |
 | **Michele Tufano** | Microsoft |
-| **Carlos Bernal-Cardenas** | Microsoft |
+| **Carlos Bernal-Cardenas** | William and Mary|
 | **Fabio Palomba** | University of Salerno |
 | **Gerson Sunyé** | University of Nantes |
 | **Carlos Gavidia** | Uiversity College London |
