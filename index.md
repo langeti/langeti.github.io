@@ -89,15 +89,17 @@ Camilo is a Ph.D. student at Universidad de los Andes in Colombia. He received h
 | | |
 |---|---|
 | **Nuno Antunes** | University of Coimbra |
-| **Massimiliano Di Penta** | University of Sannio  |
-| **Sam Malek** | University of California at Irvine |  
-| **Mattia Fazzini** | University of Minnesota | 
-| **Corina Pasareanu** | NASA Ames |
-| **Julian Dolby** | IBM |
-| **Gordana Rakic** | University Novi Sad |
-| **Michele Tufano** | Microsoft |
-| **Carlos Bernal-Cárdenas** | William and Mary|
-| **Fabio Palomba** | University of Salerno |
-| **Gerson Sunyé** | University of Nantes |
-| **Carlos Gavidia** | Uiversity College London |
 | **Alexandre Bergel** | Universidad de Chile |
+| **Gabriele Bavota** | Università della Svizzera italiana|
+| **Carlos Bernal-Cárdenas** | William and Mary|
+| **Massimiliano Di Penta** | University of Sannio  |
+| **Julian Dolby** | IBM |
+| **Mattia Fazzini** | University of Minnesota | 
+| **Carlos Gavidia** | Uiversity College London |
+| **Sam Malek** | University of California at Irvine |  
+| **Corina Pasareanu** | NASA Ames |
+| **Fabio Palomba** | University of Salerno |
+| **Gordana Rakic** | University Novi Sad |
+| **Gerson Sunyé** | University of Nantes |
+| **Michele Tufano** | Microsoft |
+
