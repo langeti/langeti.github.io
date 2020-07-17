@@ -101,6 +101,7 @@ Camilo is a Ph.D. student at Universidad de los Andes in Colombia. He received h
 | **Corina Pasareanu** | NASA Ames |
 | **Fabio Palomba** | University of Salerno |
 | **Gordana Rakic** | University Novi Sad |
+| **August Shi** | UT Austin |
 | **Gerson Sunyé** | University of Nantes |
 | **Michele Tufano** | Microsoft |
 
