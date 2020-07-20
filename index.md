@@ -97,6 +97,7 @@ Camilo is a Ph.D. student at Universidad de los Andes in Colombia. He received h
 | **Julian Dolby** | IBM |
 | **Mattia Fazzini** | University of Minnesota | 
 | **Carlos Gavidia** | Uiversity College London |
+| **Owolabi Legunsen** | Cornell University|
 | **Sam Malek** | University of California at Irvine |  
 | **Corina Pasareanu** | NASA Ames |
 | **Fabio Palomba** | University of Salerno |
