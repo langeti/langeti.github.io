@@ -105,4 +105,5 @@ Camilo is a Ph.D. student at Universidad de los Andes in Colombia. He received h
 | **August Shi** | UT Austin |
 | **Gerson Sunyé** | University of Nantes |
 | **Michele Tufano** | Microsoft |
+| **Tanja Vos** | Technical University of Valencia |
 
