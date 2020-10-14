@@ -57,7 +57,7 @@ Accepted papers will be published as part of ACM’s Digital Library. Submission
 | **Paper submission:** | _August 17, 2020_  |
 | **Paper notification:** | _September 13, 2020_  |
 | **Camera-ready submission:** | _September 18, 2020_  |
-| **Workshop date:** | _November 8-9, 2020_ |
+| **Workshop date:** | _November 9, 2020_ |
 
 ## Follow-up Plans
 ---
