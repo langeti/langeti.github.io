@@ -28,7 +28,7 @@ LANGETI aims to disrupt the current state of workshops through the introduction 
 |15:00 - 18:00|	Longer Break, 3h, leave the room open for discussions|
 |18:00 - 18:30|	[LANGETI] Testing multi-tenant applications using fuzzing and reinforcement learning|
 |18:30 - 19:00|	[LANGETI] RIVER 2.0: An open-source testing framework using AI techniques|
-|19:00 - 19:30|	[A-TEST] Comparing Transition Trees Test Suites |Effectiveness for Different Mutation Operators|
+|19:00 - 19:30|	[A-TEST] Comparing Transition Trees Test Suites Effectiveness for Different Mutation Operators|
 |19:40 - 19:50|	Short Break, 10 min|
 |19:50 - 20:50|	[Keynote] Corina Pasareanu - SafeDNN: Understanding and Verifying Neural Networks|
 |20:40 - 20:45|	Final Remarks by Organizers|
