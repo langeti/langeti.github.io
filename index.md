@@ -5,6 +5,36 @@ Every year, new ideas arise in programming and software development that facilit
 
 LANGETI aims to disrupt the current state of workshops through the introduction  of more dynamic and involved working sessions. We will divide the workshop sessions into three main components. First, we will provide a space to share high quality  research ideas  focused on the subject of testing languages and tools for next generation platforms and systems. Second, we will have hands-on sessions to offer a practical overview of tools. Finally, we will have an open panel for early career researchers  and  nascent projects in a “pechakucha” style of presentation. These presentations will specifically aim to spark conversation about researchers' ideas, to be further discussed in small panels at the end of each day. 
 
+
+# Program
+
+| Time Slot (UTC+1) | Session Name |
+|---|---|
+|8:00 - 8:10|Welcome, opening speech (A-Test)|
+|8:10 - 8:20|Welcome, opening speech (LANGETI)|
+|8:20 - 8:45|[A-TEST/Short paper] Fuzz4B: A Front-End to AFL Not Only for Fuzzing Experts|
+|8:45 - 9:45|[Keynote] Aldeida Aleti - The effectiveness of automated software testing techniques|
+|9:45 - 9:55|Short Break, 10 min|
+|9:55 - 10:25|[LANGETI] Testing Practices for Infrastructure as Code|
+|10:25 - 10:55|[A-TEST] Navigation and Exploration in 3D-Game Automated Play Testing|
+|10:55 - 11:00|Announcements|
+|11:00 - 12:00|Longer Break, 1h, leave the room open for discussions|
+|12:00 - 13:00|[Tutorial] Peter Schrammel: Diffblue Cover |
+|13:00 - 13:10|Short Break, 15 min|
+|13:15 - 14:15|[Tutorial] Michel Nass, Emil Alegroth: Scout|
+|14:15 - 14:30|Short Break, 15 min|
+|14:30 - 14:55|[A-TEST/Short paper] Towards Automated Testing of RPA |Implementations|
+|14:55 - 15:00|	Announcements|
+|15:00 - 18:00|	Longer Break, 3h, leave the room open for discussions|
+|18:00 - 18:30|	[LANGETI] Testing multi-tenant applications using fuzzing |and reinforcement learning|
+|18:30 - 19:00|	[LANGETI] RIVER 2.0: An open-source testing framework using |AI techniques|
+|19:00 - 19:30|	[A-TEST] Comparing Transition Trees Test Suites |Effectiveness for Different Mutation Operators|
+|19:40 - 19:50|	Short Break, 10 min|
+|19:50 - 20:50|	[Keynote] Corina Pasareanu - SafeDNN: Understanding and |Verifying Neural Networks|
+|20:40 - 20:45|	Final Remarks by Organizers|
+|20:45 - 21:00|	Time for open discussion, leave the room open for discussion|
+
+
 ## Intended Audience
 ---
 The workshop looks to bring together practitioners and researchers at different stages of their career. The workshop contents should be of interest for people working on software testing in general. Moreover, with the hands-on format planned for the workshop we expect to capture the interest of both newcomers to the field and industrial practitioners alike.
